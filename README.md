@@ -1,8 +1,6 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+# React Native Solar Lundar Calendars 🗓️ 📆
 
-# React Native Calendars 🗓️ 📆
-
-## A declarative cross-platform React Native calendar component for iOS and Android.
+## A declarative cross-platform React Native Lunar Solar Calendar component for iOS and Android.
 
 [![Version](https://img.shields.io/npm/v/react-native-solar-lunar-calendars.svg)](https://www.npmjs.com/package/react-native-solar-lunar-calendars)
 [![Build Status](https://travis-ci.org/wix/react-native-solar-lunar-calendars.svg?branch=master)](https://travis-ci.org/wix/react-native-solar-lunar-calendars)
@@ -287,4 +285,4 @@ Please DO NOT format the files - we're trying to keep a unified syntax and keep 
 
 ## License
 
-React Native Calendars is MIT licensed
+React Native Solar Lundar Calendars is MIT licensed
