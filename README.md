@@ -1,10 +1,5 @@
 # React Native Solar Lundar Calendars 🗓️ 📆
 
-## A declarative cross-platform React Native Lunar Solar Calendar component for iOS and Android.
-
-[![Version](https://img.shields.io/npm/v/react-native-solar-lunar-calendars.svg)](https://www.npmjs.com/package/react-native-solar-lunar-calendars)
-[![Build Status](https://travis-ci.org/wix/react-native-solar-lunar-calendars.svg?branch=master)](https://travis-ci.org/wix/react-native-solar-lunar-calendars)
-
 <br>
 
 This module includes information on how to use this customizable **React Native** calendar component.
@@ -12,10 +7,6 @@ This module includes information on how to use this customizable **React Native*
 The package is compatible with both **Android** and **iOS**
 
 <br>
-
-> ### **Official documentation**
->
-> This README provides basic examples of how to get started with `react-native-solar-lunar-calendars`. For detailed information, refer to the [official documentation site](https://wix.github.io/react-native-solar-lunar-calendars/docs/Intro).
 
 ## Features ✨
 
@@ -53,8 +44,6 @@ $ yarn add react-native-solar-lunar-calendars
 ## Usage 🚀
 
 Basic usage examples of the library
-
-##### **For detailed information on using this component, see the [official documentation site](https://wix.github.io/react-native-solar-lunar-calendars/docs/Intro)**
 
 ### Importing the `Calendar` component
 
