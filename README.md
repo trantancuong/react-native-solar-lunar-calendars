@@ -262,13 +262,6 @@ const App = () => {
 
 <br>
 
-## Authors
-
-- [Tautvilas Mecinskas](https://github.com/tautvilas/) - Initial code - [@tautvilas](https://twitter.com/Tautvilas)
-- Katrin Zotchev - Initial design - [@katrin_zot](https://twitter.com/katrin_zot)
-
-See also the list of [contributors](https://github.com/wix/react-native-calendar-components/contributors) who participated in this project.
-
 ## Contributing
 
 We welcome contributions to react-native-solar-lunar-calendars.
